@@ -1,1 +1,15 @@
-学习笔记
+- 递归模板
+    - recursion terminator
+    - process logic in current level
+    - drill down
+    - reverse the current level status if needed
+- 分治模板
+    - recursion terminator
+    - process logic in current level
+    - drill down
+    - reverse the current level status if needed
+    - process and generate the final result
+- 思路
+    - 分解子问题
+    - 递归终止逻辑
+    - 拒绝人肉递归
